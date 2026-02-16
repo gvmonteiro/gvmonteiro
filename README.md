@@ -6,11 +6,11 @@ I'm a brazilian software engineer with over **6 years of experience**, with a pr
 I'm currently dedicated to developing **productivity applications** using **Swift** and **SwiftUI**, integrating **Artificial Intelligence** to boost efficiency while deepening my expertise.
 
 <p align="left">
-    <a href="https://github.com/gustavolimam?tab=followers">
+    <a href="https://github.com/gvmonteiro?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavolimam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/gvmonteiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
